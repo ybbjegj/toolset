@@ -1,0 +1,31 @@
+{
+    "name": "tool-set",
+    "version": "0.0.1",
+    "description": "private a tool set",
+    "main": "index.js",
+    "scripts": {
+        "test": "node ./test/test.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ybbjegj/toolset.git"
+    },
+    "keywords": [
+        "tool",
+        "set"
+    ],
+    "author": {
+        "name":"Mingli",
+        "email":"guomilo@gmail.com"
+    },
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ybbjegj/toolset/issues"
+    },
+    "homepage": "https://github.com/ybbjegj/toolset#readme",
+    "dependencies": {
+
+        "iconv-lite": "^0.4.13",
+        "tap": "^2.1.1"
+    }
+}
