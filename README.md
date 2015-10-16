@@ -1,4 +1,4 @@
-# css-deps-analyse
+# tool-set
 
 
 find all `/*require("")*/` or `/*@require("")*/` in the CSS files
@@ -10,7 +10,7 @@ find all `/*require("")*/` or `/*@require("")*/` in the CSS files
 With [npm](https://npmjs.org) do:
 
 ```
-npm install toolset
+npm install tool-set
 ```
 # license
 
