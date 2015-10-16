@@ -1,7 +1,7 @@
 # tool-set
 
 
-find all `/*require("")*/` or `/*@require("")*/` in the CSS files
+a toolset
 
 [![Build Status](https://travis-ci.org/ybbjegj/toolset.svg?branch=master)](https://travis-ci.org/ybbjegj/toolset)
 
